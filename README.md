@@ -15,5 +15,6 @@ Allows the listening in 2 external speakers(2X15W) of the following:
 -Audio amplification from a low level audio source on the AUX input.
 
 In this repository there is the electrical diagram, the wiring (Express PCB) and some photos necessary to understand how it was built.
+More to https://www.instructables.com/id/Home-Sound-System/
 
 
